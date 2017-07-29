@@ -1,0 +1,255 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+body {
+    margin: 0;
+    padding: 10px;
+
+    background-color: #efefef;
+
+    font-family: 'Handlee', cursive;
+    font-size: 13pt;
+}
+h2 span {
+    margin: 0 0 10px 0;
+    padding: 18px 0 18px 0;
+
+    text-align: center;
+
+    color: #20bcd5;
+
+    font-size: 15pt;
+}
+
+h2 span{
+  margin: 0 0 10px 0;
+  padding: 18px 0 18px 0;
+
+  text-align: center;
+
+  font-weight: bold;
+  color: #000000;
+  font-size: 82px;
+}
+h1 span {
+    padding: 10px;
+
+    color: #ffffff;
+
+    border: 4px dashed #000000;
+    background-color: #5e6466;
+}
+
+p {
+    margin: 0;
+
+    padding: 0;
+}
+.glass::before {
+
+}
+
+
+
+
+
+.img-circle {
+    border: 3px solid white;
+    border-radius: 50%;
+}
+.section {
+    margin-bottom: 10px;
+    padding: 150px;
+
+    border-radius: 10px;
+
+    background-color: #00000;
+}
+#header {
+    background-image: url("https://www.sololearn.com/Uploads/header.jpg");
+    background-size: cover;
+}
+#header img {
+    display: block;
+
+    width: 80px;
+    height: 80px;
+    margin: auto;
+}
+#header p {
+    margin: 0;
+    padding-top: 5px;
+
+    text-align: center;
+
+    color: #3b464c;
+
+    font-size: 25pt;
+    font-weight: bold;
+}
+.quote {
+    margin-top: 10px;
+
+    text-align: right;
+
+    font-size: 12pt;
+}
+.quotes{
+    text-align: center;
+
+    color: #ffffff ;
+    background-color: #474af2;
+
+    font-size: 19px;
+
+}
+
+.center{
+  text-align: center;
+
+}
+.padding {
+    padding-top: 50px;
+    padding-right: 0px;
+    padding-bottom: 50px;
+    padding-left: 0px;
+}
+
+.paddings {
+    padding-top: 500px;
+    padding-right: 0px;
+    padding-bottom: 600px;
+    padding-left: 0px;
+}
+.bottompadding{
+  padding-bottom: 150px;
+
+}
+.right{
+
+
+  padding-top: 90px;
+  text-align: right;
+  padding-bottom: 0px;
+
+}
+ table {
+      width: 100%;
+      font-size: 11pt;}
+
+      table, th, td {
+            border: 2px solid #cecece;
+            border-collapse: collapse;
+            text-align: center;
+            table-layout: fixed;
+        }
+
+      .selected {
+            background-color: #f36f48;
+            font-weight: bold;
+            color: white;
+        }
+      li {
+            margin-bottom: 15px;
+            font-weight: bold;
+        }
+      progress {
+            width: 70%;
+            height: 20px;
+            color: #3fb6b2;
+            background: #efefef;
+        }
+      progress::-webkit-progress-bar {
+            background: #efefef;
+        }
+      progress::-webkit-progress-value {
+            background: #3fb6b2;
+        }
+      progress::-moz-progress-bar {
+            color: #3fb6b2;
+            background: #efefef;
+        }
+      iframe, audio {
+            display: block;
+            margin: 0 auto;
+            border: 3px solid #3fb6b2;
+        }
+      hr {
+            border: 0;
+            height: 1px;
+            background: #f36f48;
+        }
+      form {
+            text-align: center;
+            margin-top: 0;
+        }
+      .submit {
+            background-color: #3fb6b2;
+            padding: 12px 45px;
+            border-radius: 5px;
+            cursor: pointer;
+            color: #ffffff;
+            border: none;
+            outline: none;
+            margin: 0;
+            font-weight: bold;
+        }
+      .submit:hover {
+            background-color: #43a09d;
+        }
+      textarea {
+            height: 100px;
+        }
+      input, textarea {
+            margin-bottom: 10px;
+            font-size: 11pt;
+            padding: 15px 10px 10px;
+            border: 1px solid #cecece;
+            background-color: #efefef;
+            color: #787575;
+            border-radius: 5px;
+            width: 70%;
+            outline: none;
+        }
+      .face {
+            transform: scale(0.4);
+            margin: 0 auto;
+            display: block;
+            margin-top: -35px;
+            margin-bottom: -25px;
+        }
+      #contacts img {
+            height: 50px;
+            width: 50px;
+            margin-left: 7px;
+            margin-right: 7px;
+        }
+      #contacts a {
+            text-decoration: none;
+        }
+      #contacts img:hover {
+            opacity: 0.8;
+        }
+      #contacts {
+            text-align: center;
+        }
+      .copyright {
+            font-size: 8pt;
+            text-align: right;
+            padding-bottom: 10px;
+            color: grey;
+        }
+
+.titlepadding {
+    text-align: center;
+    padding-top: 50px;
+    padding-right: 0px;
+    padding-bottom: 700px;
+    padding-left: 0px;
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-image: url(
+
+  }
