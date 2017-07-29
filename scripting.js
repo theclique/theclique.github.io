@@ -1,1 +1,1 @@
-alert("If you are associated with a school district please leave");
+alert("Note to all teachers: You cant put a idea in detention ;)");
